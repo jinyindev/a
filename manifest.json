@@ -2,7 +2,7 @@
 	"name": "Crunchyroll iFrame Player",
 	"version": "1.0.2",
 	"description": "Permite ver todos os vídeos do crunchyroll gratuitamente.",
-	"author": "itallolegal",
+	"author": "yo",
 	"icons": { "48": "icon.png" },
 	"browser_action":{
 		"default_title": "Crunchyroll iFrame Player",
